@@ -4,6 +4,18 @@
     -ms-box-sizing: border-box;
     box-sizing: border-box;
 }
+.anonymous-bg {
+    background: url('../images/parcel_delivery1.jpg');
+    background-size: cover;
+    background-position:center;
+}
+
+.center {
+    text-align: center;
+}
+
+.content {
+    padding-top: 60px;
 
 .input-div{
     margin: 20px 0;
@@ -31,21 +43,6 @@ body{
 	font-family:"Tlwg Typo", serif;
 	color: #f5f0f0;
 }
-
-.anonymous-bg {
-	background: url('../images/parcel_delivery1.jpg');
-	background-size: cover;
-	background-position:center;
-}
-
-.center {
-	text-align: center;
-}
-
-.content {
-	padding-top: 60px;
-}
-
 .form-wrap {
 	max-width: 400px;
 	margin: auto;
@@ -54,7 +51,7 @@ body{
     background-color: #353535;
     border-radius: .3rem;
 }
-
+  
 .form-input{
 	display: block;
     width: 100%;
