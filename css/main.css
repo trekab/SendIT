@@ -4,7 +4,6 @@
     -ms-box-sizing: border-box;
     box-sizing: border-box;
 }
-
 .anonymous-bg {
     background: url('../images/parcel_delivery1.jpg');
     background-size: cover;
@@ -17,6 +16,10 @@
 
 .content {
     padding-top: 60px;
+
+.input-div{
+    margin: 20px 0;
+    text-align: left;
 }
 
 .form-button {
@@ -40,7 +43,6 @@ body{
 	font-family:"Tlwg Typo", serif;
 	color: #f5f0f0;
 }
-
 .form-wrap {
 	max-width: 400px;
 	margin: auto;
@@ -49,12 +51,7 @@ body{
     background-color: #353535;
     border-radius: .3rem;
 }
-
-.input-div{
-	margin: 20px 0;
-	text-align: left;
-}
-
+  
 .form-input{
 	display: block;
     width: 100%;
