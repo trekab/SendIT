@@ -1,0 +1,78 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.input-div{
+    margin: 20px 0;
+    text-align: left;
+}
+
+.form-button {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    padding: 0.5rem 0.75rem;
+    font-weight: bold;
+    font-family:"Tlwg Typo", serif;
+    font-size: 1.25rem;
+    line-height: 1.25;
+    border-radius: 0.25rem;
+    box-sizing: border-box;
+}
+
+body{
+	font-weight: bold;
+	font-family:"Tlwg Typo", serif;
+	color: #f5f0f0;
+}
+
+.anonymous-bg {
+	background: url('../images/parcel_delivery1.jpg');
+	background-size: cover;
+	background-position:center;
+}
+
+.center {
+	text-align: center;
+}
+
+.content {
+	padding-top: 60px;
+}
+
+.form-wrap {
+	max-width: 400px;
+	margin: auto;
+	padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #353535;
+    border-radius: .3rem;
+}
+
+.form-input{
+	display: block;
+    width: 100%;
+    padding: 0.5rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.25;
+    color: #495057;
+    background-color: #fff;
+    box-sizing: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 0.25rem;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+.gray-btn {
+	background-color: #f0f1f37a;
+}
